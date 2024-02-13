@@ -1,7 +1,1 @@
-echo "# Programaci-n-para-la-Extracci-n-de-Datos" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git rama -M main 
-git remoto add origin https: //github.com/Alexis-26/Programaci-n-para-la-Extracci-n-de-Datos.git
- git push -u origin main
+
